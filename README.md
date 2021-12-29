@@ -2,14 +2,10 @@
 
 I am a developer with a passion for coding and learning new tech.
 
-##### Languages and skills:
-- PHP, Java, JavaScript, Angular, React, Node.js, Nest.js, Docker.
+#### Languages and skills:
+- PHP, Java, JavaScript, C#, Node.js, Nest.js, Angular, React, Docker.
 
-
-##### Find me:
-<a href="https://felipebalotim.com" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="/home/felipe/Projects/felipebalotim/icons/linkedin-brands.svg" /></a>
-
- [![LinkedIn](/home/felipe/Projects/felipebalotim/icons/linkedin-brands.svg)](https://www.linkedin.com/in/felipebalotim/)
+#### Find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebalotim/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felipebalotim)
