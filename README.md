@@ -43,8 +43,8 @@ I'm a developer with a passion for coding and learning new tech.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebalotim/)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/felipebalotim)
 
-[![Felipe Balotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebalotim&theme=radical&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Felipe Balotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebalotim&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=felipebalotim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=felipebalotim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
