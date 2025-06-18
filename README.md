@@ -6,16 +6,6 @@ I'm a developer with a passion for coding and learning new tech.
 - 🌱 Focused on learning software development with an emphasis on performance and scalability<br>
 - ⚡ Fun fact: I love coffee and coding to some good old rock 'n roll ☕
 
-#### Languages and skills:
-- PHP, Java, JavaScript, C#, Node.js, Nest.js, Angular, React, Docker.
-
-#### Find me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebalotim/)
-[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/felipebalotim)
-
-[![Felipe Balotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebalotim&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
   <img width="8" />
@@ -50,9 +40,10 @@ I'm a developer with a passion for coding and learning new tech.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipebalotim/felipebalotim/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipebalotim/felipebalotim/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/felipebalotim/felipebalotim/output/pacman-contribution-graph.svg">
-</picture>
+#### Find me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebalotim/)
+[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/felipebalotim)
+
+[![Felipe Balotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebalotim&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+###
