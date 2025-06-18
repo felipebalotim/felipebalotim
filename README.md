@@ -1,6 +1,10 @@
-### Hi there, I'm Felipe! :vulcan_salute:
+### :vulcan_salute: Hello, I'm Felipe, backend developer!
 
-I am a developer with a passion for coding and learning new tech.
+I'm a developer with a passion for coding and learning new tech.
+
+- 🔭 Currently developing projects using Java, Spring Boot, and Angular<br>
+- 🌱 Focused on learning software development with an emphasis on performance and scalability<br>
+- ⚡ Fun fact: I love coffee and coding to some good old rock 'n roll ☕
 
 #### Languages and skills:
 - PHP, Java, JavaScript, C#, Node.js, Nest.js, Angular, React, Docker.
@@ -12,27 +16,8 @@ I am a developer with a passion for coding and learning new tech.
 
 [![Felipe Balotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebalotim&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br clear="both" />
-
-<h3 align="center">👋 Hi, I'm Felipe Balotim, a Backend Developer!</h3>
-
 ###
-
-<p align="left">
-- 🔭 Currently developing projects using Java, Spring Boot, and Angular<br>
-- 🌱 Focused on learning software development with an emphasis on performance and scalability<br>
-- ⚡ Fun fact: I love coffee and coding to some good old rock 'n roll ☕
-</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipebalotim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipebalotim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
-
-###
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
@@ -64,7 +49,8 @@ I am a developer with a passion for coding and learning new tech.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-###
+</div>
+  ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipebalotim/felipebalotim/output/pacman-contribution-graph-dark.svg">
