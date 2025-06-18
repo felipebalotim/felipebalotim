@@ -49,7 +49,7 @@ I'm a developer with a passion for coding and learning new tech.
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
 </div>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipebalotim/felipebalotim/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipebalotim/felipebalotim/output/pacman-contribution-graph.svg">
