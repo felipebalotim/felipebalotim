@@ -44,4 +44,8 @@ I'm a developer with a passion for coding and learning new tech.
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/felipebalotim)
 
 [![Felipe Balotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebalotim&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipebalotim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipebalotim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=ocean_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 ###
